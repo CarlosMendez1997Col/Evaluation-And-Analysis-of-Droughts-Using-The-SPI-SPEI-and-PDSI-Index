@@ -14,7 +14,7 @@ gh repo clone CarlosMendez1997Col/Evaluate-hydrological-and-meteorological-droug
 
 ## Description
 
-Repository builded in `C++` and `R` languages programs. 
+Repository built in `C++` and `R` languages programs. 
 
 Each section is described below:
 
